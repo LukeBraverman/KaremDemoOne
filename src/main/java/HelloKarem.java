@@ -1,31 +1,30 @@
+import LessonOne.Strings;
+
+import java.util.Arrays;
+
 public class HelloKarem {
 
     public static void main(String[] args) {
-        System.out.println("Hello Karem");
+
+        Strings strings = new Strings();
+
+        System.out.println(
+            strings.replace()
+        );
     }
 
-    //Hi karem again x2
 
-    /*
-
-    A
-        REALLY
-            BIG
-                    COMMENT
-
-     */
-
-    /*
-
-    AN
-                EVEN
-
-
-                                BIGGER
-
-
-
-                                                    COMMENT
-
-     */
 }
+
+/*
+    String
+    char
+    int
+    double
+    long
+    short
+    boolean
+
+
+
+ */
