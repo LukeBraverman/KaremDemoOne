@@ -4,5 +4,28 @@ public class HelloKarem {
         System.out.println("Hello Karem");
     }
 
-    //Hi karem again
+    //Hi karem again x2
+
+    /*
+
+    A
+        REALLY
+            BIG
+                    COMMENT
+
+     */
+
+    /*
+
+    AN
+                EVEN
+
+
+                                BIGGER
+
+
+
+                                                    COMMENT
+
+     */
 }
