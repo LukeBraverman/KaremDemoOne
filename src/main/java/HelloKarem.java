@@ -1,4 +1,5 @@
 import LessonOne.Strings;
+import LessonThree.Characters;
 import LessonTwo.Ints;
 
 import java.util.Arrays;
@@ -6,11 +7,14 @@ import java.util.Arrays;
 public class HelloKarem {
 
     public static void main(String[] args) {
-    Ints ints = new Ints();
-
+    Characters character = new Characters();
         System.out.println(
-                ints.stingToInteger()
+                character.isNotWhitespace()
         );
+        System.out.println(
+                character.isWhitespace()
+            );
+
 
     }
 
